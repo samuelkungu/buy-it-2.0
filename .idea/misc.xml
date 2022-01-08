@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/kungu/AndroidStudioProjects/BuyIt20/app/src/main/res/layout/activity_home.xml" value="0.2" />
         <entry key="..\:/Users/kungu/AndroidStudioProjects/BuyIt20/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/kungu/AndroidStudioProjects/BuyIt20/app/src/main/res/layout/purchase_fragment.xml" value="0.2" />
       </map>
     </option>
   </component>
