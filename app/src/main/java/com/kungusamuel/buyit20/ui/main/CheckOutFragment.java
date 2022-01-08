@@ -31,6 +31,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
+import com.kungusamuel.buyit20.R;
 import com.shashank.sony.fancytoastlib.FancyToast;
 
 import java.util.HashMap;
