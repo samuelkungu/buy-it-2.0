@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/login_background"
-    tools:context="com.kungusamuel.ecommerceapp.ui.main.RegisterFragment">
+    tools:context="com.kungusamuel.buyit20.ui.main.RegisterFragment">
 
     <androidx.cardview.widget.CardView
         app:layout_constraintTop_toTopOf="parent"
