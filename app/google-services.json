@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "637786468376",
-    "project_id": "buyit2-0",
-    "storage_bucket": "buyit2-0.appspot.com"
+    "project_number": "229384270727",
+    "project_id": "assignment-class-app",
+    "storage_bucket": "assignment-class-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:637786468376:android:e5c22a49fe30697d9b136d",
+        "mobilesdk_app_id": "1:229384270727:android:7dfda858866aa9c7b3d922",
         "android_client_info": {
-          "package_name": "com.kungusamuel.buyit20"
+          "package_name": "com.james1mumo.assignmentclassapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "637786468376-ql6qijmmr6ul65i95lnq1ulvpa0il654.apps.googleusercontent.com",
+          "client_id": "229384270727-augb8c55fu41cfp07fnl3f765bcq30nc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCMscsjlZAw7zGpddEpzU2DBjcZwSypDu4"
+          "current_key": "AIzaSyDwBrBCTUXDzAq0u9tE2sw7ESx9lJ8dw5I"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "637786468376-ql6qijmmr6ul65i95lnq1ulvpa0il654.apps.googleusercontent.com",
+              "client_id": "229384270727-augb8c55fu41cfp07fnl3f765bcq30nc.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
